@@ -1,4 +1,4 @@
-# Pen-tab
+# Pen Tab
 A turtle based pen-tab:
 1. To move the pen on the tab, a mouse can be used.
 2. To write on the tab, drag the mouse by keeping its left button pressed.
